@@ -252,6 +252,45 @@ www信息如何转化成IP地址信息的，他需要将网址先发送到DNS服
 
 ![Alt text](image-66.png)![Alt text](image-67.png)![Alt text](image-68.png)![Alt text](image-69.png)
 
+> 项目管理
+
+传统职能不利于项目；
+
+![Alt text](image-70.png)
+
+项目强矩阵利益资源最大化，其他职能部门支持项目资源池，人的成本计算在项目上；
+
+![Alt text](image-71.png)![Alt text](image-72.png)![Alt text](image-73.png)![Alt text](image-74.png)![Alt text](image-75.png)
+![Alt text](image-76.png)![Alt text](image-77.png)![Alt text](image-78.png)
+
+Delay项目生命周期，应该有明确的阶段和关口，这是项目管控的核心；
+
+![Alt text](image-79.png)![Alt text](image-80.png)![Alt text](image-81.png)![Alt text](image-82.png)
+
+项目生命周期-适应能力才是开发项目中的竞争力；
+预测型，什么都知道。瀑布型每一步都到完美完善，不能发过来做。迭代型开发（方向对，补充细节）。增量式开发类似积木开发（每个阶段交付一部分，每一部分都是完整状态）。敏捷开发（一开始没法确定，没法想好。根据现实情况你随时提我随时改。有精力做就及时给你实现，如果做不到就下个版本再实现现在的需求，能够让团队有节奏的进行持续地适应性开发）。
+
+![Alt text](image-83.png)![Alt text](image-84.png)![Alt text](image-85.png)![Alt text](image-86.png)![Alt text](image-87.png)![Alt text](image-88.png)
+
+项目适应哪种开发模式选择图；
+
+![Alt text](image-89.png)
+
+项目到底有完没完？
+
+项目（阶段性工作）和运营（重复工作）。项目特征：独特性、临时性、不确定性。项目和运营结合，持续运营才能得到回报。
+
+![Alt text](image-90.png)
+
+项目参与方太多，怎么分配精力？权力（多大话语权，项目影响多严重）。合法性（相关方是不是合法能够参与，或者影响我们项目的人）。紧迫性（他的想法和诉求是不是着急要表达和实现）。
+
+![Alt text](image-91.png)
+
+第一种潜伏型权力大，不着急。第二种随意型合法的权力不大，需求不急于表达。第三种矫情型很活跃积极表达想法，权力不大。第四种权贵型既有权力也是合法成员，只是不着急表达。第五种危险型，有权力也着急，跟你项目不是合法成员。第六种从众型合法成员也着急权力不大。第七种统治型既有权力也合法也着急。这七个相关方也有可能会发生相互的转变；蓝色代表具备的特征，灰色代表不具备的特征但是一旦有了灰色上面的文字他就具备了蓝色的特征（先关注那些凸显性很强的相关方）；
+
+![Alt text](image-92.png)![Alt text](image-93.png)![Alt text](image-94.png)
+
+
 
 > 数据治理（穗彩）
 > 数据建模（穗彩）
